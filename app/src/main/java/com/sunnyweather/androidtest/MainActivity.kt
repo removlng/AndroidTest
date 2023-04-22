@@ -13,6 +13,10 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    fun function3() {
+
+    }
+
     fun function4() {
 
     }
