@@ -12,4 +12,8 @@ class MainActivity : AppCompatActivity() {
     fun branchTest() {
         //函数体
     }
+
+    fun branchTest2() {
+        //函数体2
+    }
 }
