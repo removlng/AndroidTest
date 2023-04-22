@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    //删除了方法
+    fun function() {
+        //123
+    }
 }
