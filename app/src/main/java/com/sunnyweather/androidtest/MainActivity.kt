@@ -9,7 +9,5 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    fun branchTest() {
-        //函数体
-    }
+    //删除了方法
 }
