@@ -24,4 +24,8 @@ class MainActivity : AppCompatActivity() {
     fun function5() {
 
     }
+
+    fun function6() {
+
+    }
 }
